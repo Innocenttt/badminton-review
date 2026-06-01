@@ -1,0 +1,51 @@
+{
+  "name": "player",
+  "age": 27,
+  "level": "amateur doubles, around 2.x moving toward level 3",
+  "training_schedule": "Monday to Friday, 09:00-12:00",
+  "camera": "DJI Action 5 Pro, fixed position",
+  "default_view": "back view",
+  "today_outfit": {
+    "date": "2026-05-25",
+    "top": "white T-shirt",
+    "bottom": "black shorts"
+  },
+  "current_problems": [
+    "Often forgets split step",
+    "Can stand still before opponent hits",
+    "Watches the shuttle after hitting and delays recovery",
+    "Rear-court clear often reaches only opponent mid-court",
+    "Rear-court contact point may be low or behind the body",
+    "Net shots are unstable: sometimes into the net, sometimes too high",
+    "Smash is not fast or heavy, but it is not the first priority",
+    "Doubles positioning needs improvement: attacking front/back, defending side/side, avoiding crowding partner",
+    "Weak post-shot connection, often one-shot only"
+  ],
+  "training_priorities": [
+    {
+      "rank": 1,
+      "key": "split_step",
+      "label": "Split step"
+    },
+    {
+      "rank": 2,
+      "key": "recovery",
+      "label": "Recovery to base position"
+    },
+    {
+      "rank": 3,
+      "key": "rear_court_positioning",
+      "label": "Rear-court arrival and clear quality"
+    },
+    {
+      "rank": 4,
+      "key": "doubles_positioning",
+      "label": "Doubles positioning"
+    },
+    {
+      "rank": 5,
+      "key": "net_stability",
+      "label": "Net shot stability"
+    }
+  ]
+}

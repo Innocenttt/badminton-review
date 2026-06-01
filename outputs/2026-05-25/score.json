@@ -1,0 +1,27 @@
+{
+  "date": "2026-05-25",
+  "videos": [
+    "DJI_20260525105843_0169_D.MP4",
+    "DJI_20260525110830_0170_D.MP4",
+    "DJI_20260525113002_0171_D.MP4",
+    "DJI_20260525115847_0172_D.MP4"
+  ],
+  "session_type": "weekday morning doubles training",
+  "duration_minutes": null,
+  "theme": "split step",
+  "scores": {
+    "split_step": 2,
+    "recovery": 2,
+    "rear_court_positioning": 2.5,
+    "defensive_preparation": 2,
+    "doubles_positioning": 2.5,
+    "post_shot_connection": 2
+  },
+  "observations": [],
+  "main_problem": "opponent hitting moment often standing still",
+  "next_focus": "split step before opponent hits",
+  "representative_errors": [],
+  "representative_good_frames": [],
+  "completed_previous_focus": null,
+  "notes": "Edit these values after reviewing key frames and clips."
+}
